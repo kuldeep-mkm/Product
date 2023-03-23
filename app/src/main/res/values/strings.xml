@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="products">Products</string>
+    <string name="title">Title:</string>
+    <string name="add">ADD</string>
+    <string name="discount">Discount:</string>
+    <string name="price">Price:</string>
+    <string name="description">Description:</string>
+    <string name="add_product">Add Product</string>
+</resources>
